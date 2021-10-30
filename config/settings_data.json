@@ -1,44 +1,44 @@
 {
   "current": {
+    "colors_solid_button_labels": "#FFFFFF",
+    "colors_accent_1": "#121212",
+    "colors_accent_2": "#334FB4",
     "colors_text": "#121212",
-    "mlvedaACS_roundDecimal": true,
     "colors_outline_button_labels": "#121212",
+    "colors_background_1": "#FFFFFF",
+    "colors_background_2": "#F3F3F3",
+    "type_header_font": "assistant_n4",
+    "type_body_font": "assistant_n4",
+    "mlvedaACS_roundDecimal": true,
     "mlvedaACS_positionTop": "10px",
     "mlvedaACS_enable": true,
     "mlvedaACS_supportedCurrencies": "USD CAD AUD GBP EUR INR JPY VND",
-    "colors_background_2": "#F3F3F3",
-    "type_body_font": "assistant_n4",
     "mlvedaACS_positionLeft": false,
     "mlvedaACS_defaultCurrency": "VND",
-    "sections": {
-      "announcement-bar": {
-        "settings": {
-        },
-        "blocks": {
-          "announcement-bar-0": {
-            "settings": {
-              "color_scheme": "background-1"
-            },
-            "type": "announcement"
-          }
-        },
-        "type": "announcement-bar",
-        "block_order": [
-          "announcement-bar-0"
-        ]
-      }
-    },
     "mlvedaACS_hideDecimal": false,
-    "colors_accent_1": "#121212",
     "mlvedaACS_positionRight": "10px",
     "mlvedaACS_positionBottom": false,
-    "colors_background_1": "#FFFFFF",
-    "colors_accent_2": "#334FB4",
     "mlvedaACS_currencyFormat": "money_with_currency_format",
-    "colors_solid_button_labels": "#FFFFFF",
     "mlvedaACS_displayFlag": false,
     "mlvedaACS_position": "top_with_right",
-    "type_header_font": "assistant_n4"
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "color_scheme": "background-1"
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Craft": {
