@@ -119,11 +119,6 @@
       ],
       "settings": {
       }
-    },
-    "pagefly-home": {
-      "type": "pagefly-home",
-      "settings": {
-      }
     }
   },
   "order": [
@@ -132,8 +127,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column",
-    "pagefly-home"
+    "multi_column"
   ],
   "layout": "theme.pagefly"
 }
