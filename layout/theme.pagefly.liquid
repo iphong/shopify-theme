@@ -126,9 +126,15 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {%- endif -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-  
+   
+{% include 'pagefly-header' %}
+ <!--Gem_Page_Header_Script-->
+{% include 'gem-app-header-scripts' %}
+<!--End_Gem_Page_Header_Script-->
+
   {% render 'shogun-head' %}
-</head>
+    {% render 'judgeme_core' %}
+</head> 
 
   <body class="gradient"><div class="pagefly-container">{{ content_for_layout }}</div></body>
 </html>
