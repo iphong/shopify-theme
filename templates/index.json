@@ -5,10 +5,15 @@
       "settings": {
         "page": ""
       }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "settings": {
+      }
     }
   },
   "order": [
-    "1635599671b1b58793"
-  ],
-  "layout": "theme.pagefly"
+    "1635599671b1b58793",
+    "pagefly-home"
+  ]
 }
