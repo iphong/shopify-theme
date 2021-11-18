@@ -1,60 +1,60 @@
 {
   "current": {
+    "colors_solid_button_labels": "#FFFFFF",
+    "colors_accent_1": "#121212",
+    "colors_accent_2": "#334FB4",
     "colors_text": "#121212",
-    "mlvedaACS_roundDecimal": true,
     "colors_outline_button_labels": "#121212",
+    "colors_background_1": "#FFFFFF",
+    "colors_background_2": "#F3F3F3",
+    "type_header_font": "assistant_n4",
+    "type_body_font": "assistant_n4",
+    "predictive_search_enabled": false,
+    "mlvedaACS_roundDecimal": true,
     "mlvedaACS_positionTop": "10px",
     "mlvedaACS_enable": true,
     "mlvedaACS_supportedCurrencies": "USD CAD AUD GBP EUR INR JPY VND",
-    "colors_background_2": "#F3F3F3",
-    "type_body_font": "assistant_n4",
     "mlvedaACS_positionLeft": false,
     "mlvedaACS_defaultCurrency": "VND",
+    "mlvedaACS_hideDecimal": false,
+    "mlvedaACS_positionRight": "10px",
+    "mlvedaACS_positionBottom": false,
+    "mlvedaACS_currencyFormat": "money_with_currency_format",
+    "mlvedaACS_displayFlag": false,
+    "mlvedaACS_position": "top_with_right",
     "sections": {
       "announcement-bar": {
+        "type": "announcement-bar",
         "settings": {
-        },
-        "type": "announcement-bar"
+        }
       },
       "footer": {
+        "type": "footer",
         "settings": {
+          "color_scheme": "background-1",
           "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
-          "enable_country_selector": false,
-          "color_scheme": "background-1",
           "show_social": false,
+          "enable_country_selector": false,
           "enable_language_selector": false,
           "payment_enable": false
-        },
-        "type": "footer"
+        }
       },
       "header": {
+        "type": "header",
         "settings": {
-          "enable_sticky_header": true,
           "color_scheme": "background-1",
-          "show_line_separator": true,
+          "logo_width": 50,
           "logo_position": "middle-left",
           "menu": "main-menu",
-          "logo_width": 50
-        },
-        "type": "header"
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
       }
     },
-    "mlvedaACS_hideDecimal": false,
-    "colors_accent_1": "#121212",
-    "mlvedaACS_positionRight": "10px",
     "content_for_index": [
 
-    ],
-    "mlvedaACS_positionBottom": false,
-    "colors_background_1": "#FFFFFF",
-    "colors_accent_2": "#334FB4",
-    "mlvedaACS_currencyFormat": "money_with_currency_format",
-    "colors_solid_button_labels": "#FFFFFF",
-    "mlvedaACS_displayFlag": false,
-    "predictive_search_enabled": false,
-    "mlvedaACS_position": "top_with_right",
-    "type_header_font": "assistant_n4"
+    ]
   },
   "presets": {
     "Craft": {
