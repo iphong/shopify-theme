@@ -1,10 +1,5 @@
 {
   "sections": {
-    "pagefly-home": {
-      "type": "pagefly-home",
-      "settings": {
-      }
-    },
     "1637211887f44d0d57": {
       "type": "collection-list",
       "blocks": {
