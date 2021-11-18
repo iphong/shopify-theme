@@ -6,45 +6,15 @@
         "snippet": "foo"
       }
     },
-    "1637211887f44d0d57": {
-      "type": "collection-list",
-      "blocks": {
-        "16372118879d88d444-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "16372118879d88d444-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "16372118879d88d444-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "16372118879d88d444-0",
-        "16372118879d88d444-1",
-        "16372118879d88d444-2"
-      ],
+    "pagefly2": {
+      "type": "pagefly",
       "settings": {
-        "title": "Collections",
-        "image_ratio": "square",
-        "color_scheme": "background-1",
-        "swipe_on_mobile": false,
-        "image_padding": false,
-        "show_view_all": false
+        "snippet": "foo"
       }
     }
   },
   "order": [
     "pagefly",
-    "1637211887f44d0d57"
+    "pagefly2"
   ]
 }
