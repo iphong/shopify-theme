@@ -1,20 +1,31 @@
 {
   "sections": {
-    "pagefly": {
+    "pagefly2": {
       "type": "pagefly",
       "settings": {
         "snippet": "foo"
       }
     },
-    "pagefly2": {
+    "pagefly": {
       "type": "pagefly",
+      "blocks": {
+        "5cdb9b67-010b-4a7b-a8c8-f4dcc9f9f7a9": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/all_reviews_page\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "extra_wrapper_classes": "page-width page-width--narrow"
+          }
+        }
+      },
+      "block_order": [
+        "5cdb9b67-010b-4a7b-a8c8-f4dcc9f9f7a9"
+      ],
       "settings": {
         "snippet": "foo"
       }
     }
   },
   "order": [
-    "pagefly",
-    "pagefly2"
+    "pagefly2",
+    "pagefly"
   ]
 }
