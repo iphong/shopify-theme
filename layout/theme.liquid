@@ -135,7 +135,9 @@
 window.mlvedaShopCurrency = "{{ shop.currency }}";
 window.shopCurrency = "{{ shop.currency }}";
 window.supported_currencies = "{{ settings.mlvedaACS_supportedCurrencies }}";
-</script></head> 
+</script>
+	{{ shop.metafields.loox["global_html_head"] }}
+</head> 
 
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -184,5 +186,7 @@ window.supported_currencies = "{{ settings.mlvedaACS_supportedCurrencies }}";
   <!--Gem_Page_Footer_Script-->
 {% include 'gem-app-footer-scripts' %}
 <!--End_Gem_Page_Footer_Script-->
-{% include 'mlveda-currencies-switcher' %}{% include 'mlveda-currencies' %}</body>
+{% include 'mlveda-currencies-switcher' %}{% include 'mlveda-currencies' %}
+	{{ shop.metafields.loox["global_html_body"] }}
+</body>
 </html>
