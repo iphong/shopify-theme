@@ -54,10 +54,28 @@
       },
       "image-with-text": {
         "type": "image-with-text",
+        "blocks": {
+          "0c24a5ae-50f7-495f-9d20-6a05a86013be": {
+            "type": "button",
+            "settings": {
+              "button_label": "Button label",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "0c24a5ae-50f7-495f-9d20-6a05a86013be"
+        ],
         "settings": {
           "height": "adapt",
-          "color_scheme": "background-2",
+          "color_scheme": "accent-1",
           "layout": "image_first"
+        }
+      },
+      "pagefly": {
+        "type": "pagefly",
+        "settings": {
+          "snippet": "phong"
         }
       }
     },
