@@ -123,13 +123,6 @@
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
    
-{% include 'pagefly-header' %}
- <!--Gem_Page_Header_Script-->
-{% include 'gem-app-header-scripts' %}
-<!--End_Gem_Page_Header_Script-->
-
-  {% render 'shogun-head' %}
-    {% render 'judgeme_core' %}
 
 <script>
 window.mlvedaShopCurrency = "{{ shop.currency }}";
@@ -183,9 +176,6 @@ window.supported_currencies = "{{ settings.mlvedaACS_supportedCurrencies }}";
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-  <!--Gem_Page_Footer_Script-->
-{% include 'gem-app-footer-scripts' %}
-<!--End_Gem_Page_Footer_Script-->
 {% include 'mlveda-currencies-switcher' %}{% include 'mlveda-currencies' %}
 	{{ shop.metafields.loox["global_html_body"] }}
 </body>
