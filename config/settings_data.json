@@ -10,6 +10,7 @@
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
     "page_width": "1200",
+    "predictive_search_enabled": false,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -24,7 +25,7 @@
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
-          "enable_sticky_header": true
+          "enable_sticky_header": false
         }
       },
       "footer": {
@@ -32,6 +33,7 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
@@ -39,6 +41,7 @@
           },
           "footer-1": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "Heading",
               "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
@@ -51,12 +54,12 @@
         ],
         "settings": {
           "color_scheme": "background-1",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
-          "enable_country_selector": true,
-          "enable_language_selector": true,
-          "payment_enable": true
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false
         }
       }
     },
