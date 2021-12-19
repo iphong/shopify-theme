@@ -151,16 +151,6 @@
         "desktop_layout": "left",
         "mobile_layout": "column"
       }
-    },
-    "video": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
-      }
     }
   },
   "order": [
@@ -168,7 +158,6 @@
     "rich_text",
     "16399242873e10746a",
     "featured_products",
-    "collage",
-    "video"
+    "collage"
   ]
 }
