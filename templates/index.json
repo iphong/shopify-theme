@@ -6,15 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "medium"
+            "heading": "Shop Introduction",
+            "heading_size": "large"
+          }
+        },
+        "3b196906-e123-4522-8bb9-4f9d2b94550c": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_label_1": "Action",
+            "button_link_1": "shopify:\/\/collections",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -24,12 +30,14 @@
       },
       "block_order": [
         "heading",
+        "3b196906-e123-4522-8bb9-4f9d2b94550c",
         "button"
       ],
       "settings": {
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/self-serve-coffee-shop.jpg",
+        "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
+        "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
         "color_scheme": "background-1",
