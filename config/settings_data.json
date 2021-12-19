@@ -23,65 +23,8 @@
     "mlvedaACS_currencyFormat": "money_with_currency_format",
     "mlvedaACS_displayFlag": false,
     "mlvedaACS_position": "top_with_right",
-    "sections": {
-      "announcement-bar": {
-        "type": "announcement-bar",
-        "settings": {
-        }
-      },
-      "footer": {
-        "type": "footer",
-        "settings": {
-          "color_scheme": "background-1",
-          "newsletter_enable": false,
-          "newsletter_heading": "Subscribe to our emails",
-          "show_social": false,
-          "enable_country_selector": false,
-          "enable_language_selector": false,
-          "payment_enable": false
-        }
-      },
-      "header": {
-        "type": "header",
-        "settings": {
-          "color_scheme": "background-2",
-          "logo_width": 50,
-          "logo_position": "middle-left",
-          "menu": "footer",
-          "show_line_separator": true,
-          "enable_sticky_header": false
-        }
-      },
-      "image-with-text": {
-        "type": "image-with-text",
-        "blocks": {
-          "0c24a5ae-50f7-495f-9d20-6a05a86013be": {
-            "type": "button",
-            "settings": {
-              "button_label": "Button label",
-              "button_link": ""
-            }
-          }
-        },
-        "block_order": [
-          "0c24a5ae-50f7-495f-9d20-6a05a86013be"
-        ],
-        "settings": {
-          "height": "adapt",
-          "color_scheme": "accent-1",
-          "layout": "image_first"
-        }
-      },
-      "pagefly": {
-        "type": "pagefly",
-        "settings": {
-          "snippet": "phong"
-        }
-      }
-    },
-    "content_for_index": [
-
-    ]
+    "sections": {},
+    "content_for_index": []
   },
   "presets": {
     "Craft": {
