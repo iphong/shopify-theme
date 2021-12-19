@@ -23,8 +23,9 @@
     "mlvedaACS_currencyFormat": "money_with_currency_format",
     "mlvedaACS_displayFlag": false,
     "mlvedaACS_position": "top_with_right",
-    "sections": {},
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Craft": {
