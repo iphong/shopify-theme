@@ -7,7 +7,7 @@
         "title": "Some Big Heading Title",
         "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
         "image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
-        "button_label": "Buy Now",
+        "button_label": "Take Me There",
         "button_url": "shopify:\/\/products\/5-pocket-jean"
       }
     },
@@ -55,120 +55,10 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "16399242873e10746a": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Women",
-        "collection": "women",
-        "products_to_show": 8,
-        "show_view_all": false,
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true,
-        "show_rating": false
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Men",
-        "collection": "handmade",
-        "products_to_show": 8,
-        "show_view_all": false,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true,
-        "show_rating": false
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "d8de1c3d-4b66-412f-97e4-706e1f4729ce": {
-          "type": "collection",
-          "settings": {
-            "collection": "pants",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
-        "collection": {
-          "type": "collection",
-          "settings": {
-            "collection": "dresses",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
-        "012d6f50-1173-4384-8327-f2cbe86703a2": {
-          "type": "collection",
-          "settings": {
-            "collection": "shoes",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "d8de1c3d-4b66-412f-97e4-706e1f4729ce",
-        "collection",
-        "012d6f50-1173-4384-8327-f2cbe86703a2"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "column"
-      }
     }
   },
   "order": [
     "1640020857f4d542a5",
-    "image_banner",
-    "rich_text",
-    "16399242873e10746a",
-    "featured_products",
-    "collage"
+    "image_banner"
   ]
 }
