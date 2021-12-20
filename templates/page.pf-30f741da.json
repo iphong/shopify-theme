@@ -8,16 +8,27 @@
     "163999699478e3c30a": {
       "type": "video",
       "settings": {
-        "heading": "Video",
+        "heading": "My Video",
         "cover_image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
-        "full_width": false
+        "full_width": true
+      }
+    },
+    "163999737751fd637b": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "cover_image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
+        "video_url": "",
+        "description": "",
+        "full_width": true
       }
     }
   },
   "order": [
     "pf-30f741da",
-    "163999699478e3c30a"
+    "163999699478e3c30a",
+    "163999737751fd637b"
   ]
 }
