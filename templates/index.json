@@ -1,9 +1,14 @@
 {
   "sections": {
-    "164002021730485511": {
+    "1640020857f4d542a5": {
       "type": "phong",
       "settings": {
-        "title": "Slideshow"
+        "subtitle": "SPECIAL DISCOUNT",
+        "title": "For Men's Jackets",
+        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
+        "image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
+        "button_label": "Buy Now",
+        "button_url": "shopify:\/\/products\/5-pocket-jean"
       }
     },
     "image_banner": {
@@ -159,7 +164,7 @@
     }
   },
   "order": [
-    "164002021730485511",
+    "1640020857f4d542a5",
     "image_banner",
     "rich_text",
     "16399242873e10746a",
