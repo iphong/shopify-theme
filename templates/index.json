@@ -46,8 +46,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
-        "image_height": "small",
-        "adapt_height_first_image": false,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
