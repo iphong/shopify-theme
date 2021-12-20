@@ -4,10 +4,10 @@
       "type": "phong",
       "settings": {
         "subtitle": "SPECIAL DISCOUNT",
-        "title": "For Men's Jackets",
-        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
+        "title": "Playstation Controllers",
+        "description": "Discount up to 50% for all controllers for cyber monday. Hurry up!",
         "image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
-        "button_label": "Buy Now",
+        "button_label": "Click here to find out more",
         "button_url": ""
       }
     },
