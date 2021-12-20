@@ -4,9 +4,20 @@
       "type": "pf-30f741da",
       "settings": {
       }
+    },
+    "163999699478e3c30a": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "cover_image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false
+      }
     }
   },
   "order": [
-    "pf-30f741da"
+    "pf-30f741da",
+    "163999699478e3c30a"
   ]
 }
