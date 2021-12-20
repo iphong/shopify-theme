@@ -1,14 +1,14 @@
 {
   "sections": {
-    "1640020857f4d542a5": {
+    "164002224707120f15": {
       "type": "phong",
       "settings": {
         "subtitle": "SPECIAL DISCOUNT",
-        "title": "Some Big Heading Title",
+        "title": "For Men's Jackets",
         "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
         "image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
-        "button_label": "Take Me There",
-        "button_url": "shopify:\/\/products\/5-pocket-jean"
+        "button_label": "Buy Now",
+        "button_url": ""
       }
     },
     "image_banner": {
@@ -58,7 +58,7 @@
     }
   },
   "order": [
-    "1640020857f4d542a5",
+    "164002224707120f15",
     "image_banner"
   ]
 }
