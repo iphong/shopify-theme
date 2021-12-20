@@ -1,5 +1,11 @@
 {
   "sections": {
+    "164002021730485511": {
+      "type": "phong",
+      "settings": {
+        "title": "Slideshow"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -153,6 +159,7 @@
     }
   },
   "order": [
+    "164002021730485511",
     "image_banner",
     "rich_text",
     "16399242873e10746a",
