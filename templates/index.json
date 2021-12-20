@@ -11,17 +11,6 @@
         "button_url": ""
       }
     },
-    "16400228517c1031ed": {
-      "type": "phong",
-      "settings": {
-        "subtitle": "SPECIAL DISCOUNT",
-        "title": "For Men's Jackets",
-        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
-        "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
-        "button_label": "Buy Now",
-        "button_url": "shopify:\/\/products\/babydoll-bow-dress-white"
-      }
-    },
     "1640023085a8c8ef77": {
       "type": "image-banner",
       "blocks": {
@@ -65,11 +54,22 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "16400228517c1031ed": {
+      "type": "phong",
+      "settings": {
+        "subtitle": "SPECIAL DISCOUNT",
+        "title": "For Men's Jackets",
+        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
+        "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
+        "button_label": "Buy Now",
+        "button_url": "shopify:\/\/products\/babydoll-bow-dress-white"
+      }
     }
   },
   "order": [
     "164002224707120f15",
-    "16400228517c1031ed",
-    "1640023085a8c8ef77"
+    "1640023085a8c8ef77",
+    "16400228517c1031ed"
   ]
 }
