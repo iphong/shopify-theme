@@ -11,27 +11,38 @@
         "button_url": ""
       }
     },
-    "image_banner": {
+    "16400228517c1031ed": {
+      "type": "phong",
+      "settings": {
+        "subtitle": "SPECIAL DISCOUNT",
+        "title": "For Men's Jackets",
+        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
+        "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
+        "button_label": "Buy Now",
+        "button_url": "shopify:\/\/products\/babydoll-bow-dress-white"
+      }
+    },
+    "1640023085a8c8ef77": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
+        "164002308502f42e0d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Shop Introduction",
-            "heading_size": "large"
+            "heading": "Image banner",
+            "heading_size": "medium"
           }
         },
-        "3b196906-e123-4522-8bb9-4f9d2b94550c": {
+        "164002308502f42e0d-1": {
           "type": "text",
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template."
           }
         },
-        "button": {
+        "164002308502f42e0d-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Action",
-            "button_link_1": "shopify:\/\/collections",
+            "button_label_1": "Button label",
+            "button_link_1": "",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -40,36 +51,25 @@
         }
       },
       "block_order": [
-        "heading",
-        "3b196906-e123-4522-8bb9-4f9d2b94550c",
-        "button"
+        "164002308502f42e0d-0",
+        "164002308502f42e0d-1",
+        "164002308502f42e0d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
         "image_height": "medium",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "16400228517c1031ed": {
-      "type": "phong",
-      "settings": {
-        "subtitle": "SPECIAL DISCOUNT",
-        "title": "For Men's Jackets",
-        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
-        "button_label": "Buy Now",
-        "button_url": ""
       }
     }
   },
   "order": [
     "164002224707120f15",
-    "image_banner",
-    "16400228517c1031ed"
+    "16400228517c1031ed",
+    "1640023085a8c8ef77"
   ]
 }
