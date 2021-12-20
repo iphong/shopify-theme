@@ -1,9 +1,28 @@
 {% schema %}
-  {
-    "name": "Phong's Section",
-	"class": "phong-section",
-    "settings": []
-  }
+{
+  "name": "Phong",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title"
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Phong",
+      "settings": {
+        "title": "Slideshow",
+        "image": ""
+      }
+    }
+  ]
+}
 {% endschema %}
 
 <div style="opacity:0" class="sc-bYoBSM hkmOtz __pf" id="__pf">
