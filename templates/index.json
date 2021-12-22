@@ -9,9 +9,20 @@
         "button_label": "Buy Now",
         "button_url": ""
       }
+    },
+    "1640161054cc18bfc6": {
+      "type": "phong2",
+      "settings": {
+        "subtitle": "SPECIAL DISCOUNT",
+        "title": "For Men's Jackets",
+        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
+        "button_label": "Buy Now",
+        "button_url": ""
+      }
     }
   },
   "order": [
-    "1640159364e8ef86be"
+    "1640159364e8ef86be",
+    "1640161054cc18bfc6"
   ]
 }
