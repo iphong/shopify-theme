@@ -1,51 +1,6 @@
 {
   "sections": {
-    "1640157041deb22829": {
-      "type": "image-banner",
-      "blocks": {
-        "16401570402b71b13a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "16401570402b71b13a-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "16401570402b71b13a-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16401570402b71b13a-0",
-        "16401570402b71b13a-1",
-        "16401570402b71b13a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1640159292dd6f8e3c": {
+    "1640159364e8ef86be": {
       "type": "phong",
       "settings": {
         "subtitle": "SPECIAL DISCOUNT",
@@ -57,7 +12,6 @@
     }
   },
   "order": [
-    "1640157041deb22829",
-    "1640159292dd6f8e3c"
+    "1640159364e8ef86be"
   ]
 }
