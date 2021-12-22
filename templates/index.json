@@ -1,72 +1,5 @@
 {
   "sections": {
-    "164002224707120f15": {
-      "type": "phong",
-      "settings": {
-        "subtitle": "SPECIAL DISCOUNT",
-        "title": "Playstation Controllers",
-        "description": "Discount up to 50% for all controllers for cyber monday. Hurry up!",
-        "image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
-        "button_label": "Click here to find out more",
-        "button_url": "shopify:\/\/products\/auralias-leather-top"
-      }
-    },
-    "1640023085a8c8ef77": {
-      "type": "image-banner",
-      "blocks": {
-        "164002308502f42e0d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "164002308502f42e0d-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "164002308502f42e0d-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "164002308502f42e0d-0",
-        "164002308502f42e0d-1",
-        "164002308502f42e0d-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "16400228517c1031ed": {
-      "type": "phong",
-      "settings": {
-        "subtitle": "SPECIAL DISCOUNT",
-        "title": "For Men's Jackets",
-        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
-        "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
-        "button_label": "Buy Now",
-        "button_url": "shopify:\/\/products\/babydoll-bow-dress-white"
-      }
-    },
     "1640157041deb22829": {
       "type": "image-banner",
       "blocks": {
@@ -114,9 +47,6 @@
     }
   },
   "order": [
-    "164002224707120f15",
-    "1640023085a8c8ef77",
-    "16400228517c1031ed",
     "1640157041deb22829"
   ]
 }
