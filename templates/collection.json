@@ -3,16 +3,39 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
+        "products_per_page": 16,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "1640161678dee52020": {
+      "type": "phong",
+      "settings": {
+        "subtitle": "SPECIAL DISCOUNT",
+        "title": "For Men's Jackets",
+        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
+        "button_label": "Buy Now",
+        "button_url": ""
       }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "1640161678dee52020"
   ]
 }
