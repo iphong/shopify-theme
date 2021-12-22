@@ -49,6 +49,11 @@
 ]
 }
 {% endschema %}
+{% if request.design_mode %}
+<script>
+console.log('design mode')
+</script>
+{% endif %}
 {{ "//cdn.shopify.com/s/files/1/2406/3371/t/12/assets/pagefly-main.css?v=5253448385273364465" | stylesheet_tag }}
 <div class="sc-bYoBSM hkmOtz __pf">
 	<div data-pf-type="Section" class="sc-dkYRCH cEFMKO pf-66_">
