@@ -5,27 +5,17 @@
       "settings": {
       }
     },
-    "163999699478e3c30a": {
-      "type": "video",
-      "settings": {
-        "heading": "My Video",
-        "cover_image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true
-      }
-    },
-    "163999737751fd637b": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "cover_image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
-        "video_url": "",
-        "description": "",
-        "full_width": true
-      }
-    },
     "16403886597f98ef57": {
+      "type": "phong",
+      "settings": {
+        "subtitle": "SPECIAL DISCOUNT",
+        "title": "For Men's Jackets",
+        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
+        "button_label": "Buy Now",
+        "button_url": ""
+      }
+    },
+    "164038904321822f8d": {
       "type": "phong",
       "settings": {
         "subtitle": "SPECIAL DISCOUNT",
@@ -38,8 +28,7 @@
   },
   "order": [
     "pf-30f741da",
-    "163999699478e3c30a",
-    "163999737751fd637b",
-    "16403886597f98ef57"
+    "16403886597f98ef57",
+    "164038904321822f8d"
   ]
 }
