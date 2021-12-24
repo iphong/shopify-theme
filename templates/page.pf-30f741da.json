@@ -1,10 +1,5 @@
 {
   "sections": {
-    "pf-30f741da": {
-      "type": "pf-30f741da",
-      "settings": {
-      }
-    },
     "16403886597f98ef57": {
       "type": "phong",
       "settings": {
@@ -24,11 +19,16 @@
         "button_label": "Buy Now",
         "button_url": ""
       }
+    },
+    "pf-30f741da": {
+      "type": "pf-30f741da",
+      "settings": {
+      }
     }
   },
   "order": [
-    "pf-30f741da",
     "16403886597f98ef57",
-    "164038904321822f8d"
+    "164038904321822f8d",
+    "pf-30f741da"
   ]
 }
