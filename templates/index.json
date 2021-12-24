@@ -10,19 +10,49 @@
         "button_url": ""
       }
     },
-    "1640161054cc18bfc6": {
-      "type": "phong2",
+    "1640385615cec894b0": {
+      "type": "collage",
+      "blocks": {
+        "1640385615126b9dc5-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1640385615126b9dc5-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1640385615126b9dc5-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1640385615126b9dc5-0",
+        "1640385615126b9dc5-1",
+        "1640385615126b9dc5-2"
+      ],
       "settings": {
-        "subtitle": "SPECIAL DISCOUNT",
-        "title": "For Men's Jackets",
-        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
-        "button_label": "Buy Now",
-        "button_url": ""
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
       }
     }
   },
   "order": [
     "1640159364e8ef86be",
-    "1640161054cc18bfc6"
+    "1640385615cec894b0"
   ]
 }
