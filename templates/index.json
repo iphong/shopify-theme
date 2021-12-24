@@ -49,17 +49,11 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
-    },
-    "pagefly-home": {
-      "type": "pagefly-home",
-      "settings": {
-      }
     }
   },
   "order": [
     "1640159364e8ef86be",
-    "1640385615cec894b0",
-    "pagefly-home"
+    "1640385615cec894b0"
   ],
   "layout": "theme.pagefly"
 }
