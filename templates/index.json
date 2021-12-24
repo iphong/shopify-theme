@@ -1,6 +1,6 @@
 {
   "sections": {
-    "1640159364e8ef86be": {
+    "16403897846defa73a": {
       "type": "phong",
       "settings": {
         "subtitle": "SPECIAL DISCOUNT",
@@ -10,7 +10,7 @@
         "button_url": ""
       }
     },
-    "16403897846defa73a": {
+    "1640159364e8ef86be": {
       "type": "phong",
       "settings": {
         "subtitle": "SPECIAL DISCOUNT",
@@ -22,8 +22,8 @@
     }
   },
   "order": [
-    "1640159364e8ef86be",
-    "16403897846defa73a"
+    "16403897846defa73a",
+    "1640159364e8ef86be"
   ],
   "layout": "theme.pagefly"
 }
