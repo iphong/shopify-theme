@@ -179,5 +179,13 @@ data-styled.g105[id="sc-eGPXGI"]{content:"bkA-DrD,"}/*!sc*/
 {% endstylesheet %}
 
 {% javascript %}
-console.log('working')
+addEventListener('shopify:section:unload', e => {
+	console.log('shopify:section:unload')
+}, true)
+addEventListener('shopify:section:load', e => {
+	console.log('shopify:section:load')
+}, true)
+addEventListener('shopify:section:select', e => {
+	console.log('shopify:section:select')
+}, true)
 {% endjavascript %}
