@@ -49,10 +49,17 @@
         "button_label": "Buy Now",
         "button_url": ""
       }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "settings": {
+      }
     }
   },
   "order": [
     "1640385615cec894b0",
-    "1640159364e8ef86be"
-  ]
+    "1640159364e8ef86be",
+    "pagefly-home"
+  ],
+  "layout": "theme.pagefly"
 }
