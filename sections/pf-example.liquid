@@ -22,7 +22,7 @@
 
 
 
- {{ 'pf-section.css' | asset_url | stylesheet_tag }}
+{{ 'pf-section.css' | asset_url | stylesheet_tag }}
 
 <script type="module" src="{{ 'pf-section.js' | asset_url }}"></script>
 
@@ -31,3 +31,17 @@
     <h1>Pagefly Section Heading</h1>
   </div>
 </section>
+
+<script>
+  
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('{{ 'pf-sw.js' | asset_url }}')
+  .then((reg) => {
+    // registration worked
+    console.log('Registration succeeded. Scope is ' + reg.scope);
+  }).catch((error) => {
+    // registration failed
+    console.log('Registration failed with ' + error);
+  });
+}
+</script>
