@@ -53,12 +53,64 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "1640412160055fdb30": {
+      "type": "image-with-text",
+      "blocks": {
+        "1640412160525546b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1640412160525546b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1640412160525546b9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1640412160525546b9-0",
+        "1640412160525546b9-1",
+        "1640412160525546b9-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "164041225685834f23": {
+      "type": "pf-example",
+      "settings": {
+      }
+    },
+    "164041226839617420": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "cover_image": "shopify:\/\/shop_images\/video-game-controller-buttons.jpg",
+        "video_url": "",
+        "description": "",
+        "full_width": true
+      }
     }
   },
   "order": [
     "164040929710885604",
     "164041109364a6ca57",
-    "16404118829bd6d6ce"
+    "16404118829bd6d6ce",
+    "1640412160055fdb30",
+    "164041225685834f23",
+    "164041226839617420"
   ],
   "layout": "theme.example"
 }

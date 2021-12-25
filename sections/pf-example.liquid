@@ -19,15 +19,15 @@
 
 {% layout none %}
 
-{{ foo }}
 
-{% assign foo = section.id %}
 
 {{ 'pf-section.css' | asset_url | stylesheet_tag }}
 {{ 'pf-section.js' | asset_url | script_tag }}
 
 <section id="{{ section.id }}" class="pf-section">
   <div class="pf-container">
-    
+    <h1>{{ foo }}</h1>
   </div>
 </section>
+
+{% assign foo = section.id %}
