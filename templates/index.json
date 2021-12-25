@@ -9,11 +9,56 @@
       "type": "pf-example",
       "settings": {
       }
+    },
+    "16404118829bd6d6ce": {
+      "type": "image-banner",
+      "blocks": {
+        "16404118816e0721aa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "16404118816e0721aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16404118816e0721aa-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16404118816e0721aa-0",
+        "16404118816e0721aa-1",
+        "16404118816e0721aa-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "164040929710885604",
-    "164041109364a6ca57"
+    "164041109364a6ca57",
+    "16404118829bd6d6ce"
   ],
   "layout": "theme.example"
 }
