@@ -87,6 +87,8 @@
     <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
     <link rel="preload" as="font" href="{{ settings.type_header_font | font_url }}" type="font/woff2" crossorigin>
     
+    <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
+    
     {{ content_for_header }}
   </head>
   <body>
