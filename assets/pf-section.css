@@ -1,8 +1,10 @@
 .pf-section {
   background: lightcoral;
   padding: 50px 0;
+  margin: 10px 0;
 }
 .pf-container {
+  min-height: 100px;
   margin: auto;
   max-width: 1200px;
   background: white;
