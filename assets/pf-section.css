@@ -1,3 +1,7 @@
+:root {
+  margin: 0;
+  padding: 0;
+}
 .pf-section {
   background: lightcoral;
   padding: 50px 10px;
