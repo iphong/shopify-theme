@@ -102,6 +102,74 @@
         "description": "",
         "full_width": true
       }
+    },
+    "164041265691ac99fa": {
+      "type": "featured-product",
+      "blocks": {
+        "1640412656f0221ff7-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1640412656f0221ff7-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1640412656f0221ff7-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1640412656f0221ff7-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1640412656f0221ff7-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1640412656f0221ff7-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1640412656f0221ff7-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1640412656f0221ff7-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1640412656f0221ff7-0",
+        "1640412656f0221ff7-1",
+        "1640412656f0221ff7-2",
+        "1640412656f0221ff7-3",
+        "1640412656f0221ff7-4",
+        "1640412656f0221ff7-5",
+        "1640412656f0221ff7-6",
+        "1640412656f0221ff7-7"
+      ],
+      "settings": {
+        "product": "",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
     }
   },
   "order": [
@@ -110,7 +178,8 @@
     "16404118829bd6d6ce",
     "1640412160055fdb30",
     "164041225685834f23",
-    "164041226839617420"
+    "164041226839617420",
+    "164041265691ac99fa"
   ],
   "layout": "theme.example"
 }
