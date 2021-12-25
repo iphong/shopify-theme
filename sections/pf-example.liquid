@@ -17,12 +17,10 @@
 
 {% endjavascript %}
 
-{% layout none %}
-
 
 {{ 'pf-section.css' | asset_url | stylesheet_tag }}
 
-<script type="module" src="{{ 'pf-section.js' | asset_url | script_tag }}"></script>
+<script type="module" src="{{ 'pf-section.js' | asset_url }}"></script>
 
 <section id="{{ section.id }}" class="pf-section">
   <div class="pf-container">
