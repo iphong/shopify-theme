@@ -18,7 +18,7 @@
 {% javascript %}
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('{{ 'pf-sw.js' | asset_url }}', {scope: './sw-test/'})
+  navigator.serviceWorker.register('{{ 'pf-sw.js' | asset_url }}')
   .then((reg) => {
     // registration worked
     console.log('Registration succeeded. Scope is ' + reg.scope);
