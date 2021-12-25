@@ -11,7 +11,7 @@
 
 {% stylesheet %}
 
-@import "{{ 'pf-section.css' | asset_url }}";
+
 
 {% endstylesheet %}
 
@@ -20,6 +20,8 @@
 {% endjavascript %}
 
 
+
+ {{ 'pf-section.css' | asset_url | stylesheet_tag }}
 
 <script type="module" src="{{ 'pf-section.js' | asset_url }}"></script>
 
