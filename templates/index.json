@@ -4,10 +4,16 @@
       "type": "pf-example",
       "settings": {
       }
+    },
+    "164041109364a6ca57": {
+      "type": "pf-example",
+      "settings": {
+      }
     }
   },
   "order": [
-    "164040929710885604"
+    "164040929710885604",
+    "164041109364a6ca57"
   ],
   "layout": "theme.example"
 }
