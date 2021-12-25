@@ -19,6 +19,7 @@
 
 
 <link rel="preload" href="{{ 'pf-section.css' | asset_url }}" as="style" type="text/css">
+<link rel="preload" href="{{ 'pf-section.js' | asset_url }}" as="style" type="text/css">
 
 
 <section id="{{ section.id }}" class="pf-section">
@@ -26,3 +27,5 @@
     
   </div>
 </section>
+
+{{ 'pf-section.js' | asset_url | script_tag }}
