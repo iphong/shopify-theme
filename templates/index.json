@@ -165,10 +165,46 @@
         "1640412656f0221ff7-7"
       ],
       "settings": {
-        "product": "",
+        "product": "3-4-sleeve-kimono-dress-coral",
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
+      }
+    },
+    "16404155096bb97e5c": {
+      "type": "collection-list",
+      "blocks": {
+        "1640415509b39c9d55-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "handmade"
+          }
+        },
+        "1640415509b39c9d55-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dresses"
+          }
+        },
+        "1640415509b39c9d55-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes"
+          }
+        }
+      },
+      "block_order": [
+        "1640415509b39c9d55-0",
+        "1640415509b39c9d55-1",
+        "1640415509b39c9d55-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
       }
     }
   },
@@ -179,7 +215,8 @@
     "1640412160055fdb30",
     "164041225685834f23",
     "164041226839617420",
-    "164041265691ac99fa"
+    "164041265691ac99fa",
+    "16404155096bb97e5c"
   ],
   "layout": "theme.example"
 }
