@@ -206,6 +206,28 @@
         "image_padding": false,
         "show_view_all": false
       }
+    },
+    "1640562856bdb2a63c": {
+      "type": "ee6f45ef10dc493086f35ba6c3788ef5-builder-io",
+      "settings": {
+        "builder_content_entry_preview": "cf564fa0fefb42759ed1df870a323ffe"
+      }
+    },
+    "16405630508b2728f8": {
+      "type": "page",
+      "settings": {
+        "page": ""
+      }
+    },
+    "1640563061ac95b220": {
+      "type": "phong",
+      "settings": {
+        "subtitle": "SPECIAL DISCOUNT",
+        "title": "For Men's Jackets",
+        "description": "Discount up to 50% for all jackets for cyber monday. Hurry up!",
+        "button_label": "Buy Now",
+        "button_url": ""
+      }
     }
   },
   "order": [
@@ -216,7 +238,10 @@
     "164041225685834f23",
     "164041226839617420",
     "164041265691ac99fa",
-    "16404155096bb97e5c"
+    "16404155096bb97e5c",
+    "1640562856bdb2a63c",
+    "16405630508b2728f8",
+    "1640563061ac95b220"
   ],
   "layout": "theme.example"
 }
