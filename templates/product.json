@@ -71,10 +71,16 @@
       "type": "product-recommendations",
       "settings": {
       }
+    },
+    "pagefly-product-section": {
+      "type": "pagefly-product-section",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "pagefly-product-section"
   ]
 }
