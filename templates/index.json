@@ -228,6 +228,11 @@
         "button_label": "Buy Now",
         "button_url": ""
       }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -241,7 +246,8 @@
     "16404155096bb97e5c",
     "1640562856bdb2a63c",
     "16405630508b2728f8",
-    "1640563061ac95b220"
+    "1640563061ac95b220",
+    "pagefly-home"
   ],
   "layout": "theme.example"
 }
