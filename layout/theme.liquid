@@ -125,7 +125,8 @@
   {% if request.design_mode %}
 <script async src="https://cdn.builder.io/js/webcomponents"></script>
 {% endif %}
-        </head>
+        {% render 'builder-head' %}
+</head>
 
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
