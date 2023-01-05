@@ -67,7 +67,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "13739172200877325563": {
+        "type": "shopify:\/\/apps\/weaverse\/blocks\/app-embed\/c7f60bfa-c264-4b66-9443-17a891e89870",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
