@@ -17,11 +17,57 @@
         "soft_background": true,
         "show_view_all": true
       }
+    },
+    "ccd28e4f-bb63-4d65-99f5-4da23d326e7c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-0",
+        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-1",
+        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/foo.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "pagefly-home",
-    "1c31c155-ce58-4c54-896b-419b14a98530"
+    "1c31c155-ce58-4c54-896b-419b14a98530",
+    "ccd28e4f-bb63-4d65-99f5-4da23d326e7c"
   ],
   "layout": "theme.example"
 }
