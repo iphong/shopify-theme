@@ -18,23 +18,23 @@
         "show_view_all": true
       }
     },
-    "ccd28e4f-bb63-4d65-99f5-4da23d326e7c": {
+    "39903f3e-1ed1-49f6-acdc-54b51ea7f8c0": {
       "type": "image-banner",
       "blocks": {
-        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-0": {
+        "template--14287675752537__39903f3e-1ed1-49f6-acdc-54b51ea7f8c0-1686114251879fec10-0": {
           "type": "heading",
           "settings": {
             "heading": "Image banner",
             "heading_size": "medium"
           }
         },
-        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-1": {
+        "template--14287675752537__39903f3e-1ed1-49f6-acdc-54b51ea7f8c0-1686114251879fec10-1": {
           "type": "text",
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template."
           }
         },
-        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-2": {
+        "template--14287675752537__39903f3e-1ed1-49f6-acdc-54b51ea7f8c0-1686114251879fec10-2": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Button label",
@@ -47,12 +47,12 @@
         }
       },
       "block_order": [
-        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-0",
-        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-1",
-        "template--14287675752537__ccd28e4f-bb63-4d65-99f5-4da23d326e7c-1686113747eacb7c7b-2"
+        "template--14287675752537__39903f3e-1ed1-49f6-acdc-54b51ea7f8c0-1686114251879fec10-0",
+        "template--14287675752537__39903f3e-1ed1-49f6-acdc-54b51ea7f8c0-1686114251879fec10-1",
+        "template--14287675752537__39903f3e-1ed1-49f6-acdc-54b51ea7f8c0-1686114251879fec10-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/foo.jpg",
+        "image": "shopify:\/\/shop_images\/bar.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -67,7 +67,7 @@
   "order": [
     "pagefly-home",
     "1c31c155-ce58-4c54-896b-419b14a98530",
-    "ccd28e4f-bb63-4d65-99f5-4da23d326e7c"
+    "39903f3e-1ed1-49f6-acdc-54b51ea7f8c0"
   ],
   "layout": "theme.example"
 }
