@@ -74,6 +74,36 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "16278478101612877664": {
+        "type": "shopify:\/\/apps\/pagefly-landing-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "2713927743815823694": {
+        "type": "shopify:\/\/apps\/wip-pagefly\/blocks\/app-embed\/539e5832-05a6-41f9-aa7d-abd892b4fa80",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "18046973719503449364": {
+        "type": "shopify:\/\/apps\/my-test-app\/blocks\/app-embed\/bd921b9b-e48b-4763-8f7e-4a0c741ab612",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "18083557314154851961": {
+        "type": "shopify:\/\/apps\/beta-pagefly\/blocks\/app-embed\/729f399e-0dcf-470c-9bbe-b0e346b9a23e",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "16286960678466205033": {
+        "type": "shopify:\/\/apps\/rc-pagefly\/blocks\/app-embed\/ddf3ce53-57db-433e-a921-8f556fcea66d",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
